@@ -1,0 +1,15 @@
+num_emp,nom_emp,poste,superieur,date_embauche,salaire,commission,num_dep
+7369,Coquillet,Technicien,7902,1980-12-17,800,,20
+7499,Parent,Commercial,7698,1981-02-20,1600,300,30
+7521,Henry,Commercial,7698,1981-02-22,1250,500,30
+7566,Dumoulin,Directeur,7839,1981-04-02,2975,NULL,20
+7654,Ferron,Commercial,7698,1981-09-28,1250,1400,30
+7698,Capon,Directeur,7839,1981-05-01,2850,NULL,30
+7782,Martin,Directeur,7839,1981-06-09,2450,NULL,10
+7788,Colin,Analyste,7566,1987-04-19,3000,NULL,20
+7839,Patton,Président,NULL,1981-11-17,5000,NULL,10
+7844,Benami,Commercial,7698,1981-09-08,1500,0,30
+7876,Calamon,Technicien,7788,1987-05-23,1100,NULL,20
+7900,James,Technicien,7698,1981-12-03,950,NULL,30
+7902,Henry,Analyste,7566,1981-12-03,3000,NULL,20
+7934,Tozzi,Technicien,7782,1982-01-23,1300,NULL,10
